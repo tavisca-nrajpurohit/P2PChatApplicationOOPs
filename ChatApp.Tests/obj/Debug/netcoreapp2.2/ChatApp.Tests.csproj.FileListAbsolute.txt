@@ -1,0 +1,16 @@
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.Tests.deps.json
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.Tests.runtimeconfig.json
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.Tests.runtimeconfig.dev.json
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.Tests.dll
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.Tests.pdb
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.dll
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\bin\Debug\netcoreapp2.2\ChatApp.pdb
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\obj\Debug\netcoreapp2.2\ChatApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\obj\Debug\netcoreapp2.2\ChatApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\obj\Debug\netcoreapp2.2\ChatApp.Tests.AssemblyInfoInputs.cache
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\obj\Debug\netcoreapp2.2\ChatApp.Tests.AssemblyInfo.cs
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\obj\Debug\netcoreapp2.2\ChatApp.Tests.dll
+C:\Users\nrajpurohit\source\repos\ChatApp\ChatApp.Tests\obj\Debug\netcoreapp2.2\ChatApp.Tests.pdb
